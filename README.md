@@ -38,14 +38,13 @@ This repository is for personal study. Some material is adapted from pubic cours
 ## Reproducibility 
 
 ```bash
-git clone <rhttps://github.com/lily-harper/intro_to_statlearning_wPython>
-cd <intro_to_statlearning_wPython>
+git clone https://github.com/lily-harper/intro_to_statlearning_wPython
+cd intro_to_statlearning_wPython
 
 python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
-jupyter lab
 ```
 
 Notes
