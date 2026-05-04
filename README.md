@@ -39,7 +39,7 @@ This repository is for personal study. Some material is adapted from pubic cours
 
 ```bash
 git clone <rhttps://github.com/lily-harper/intro_to_statlearning_wPython>
-cd <repo-name>
+cd <intro_to_statlearning_wPython>
 
 python -m venv .venv
 source .venv/bin/activate
@@ -47,8 +47,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 jupyter lab
 ```
-
-Then later:
 
 Notes
 
